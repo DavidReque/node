@@ -1,3 +1,3 @@
-const picocolors = require("picocolors");
+const picocolors = require('picocolors')
 
-console.log(picocolors.red("ERROR"));
+console.log(picocolors.red('ERROR'))
