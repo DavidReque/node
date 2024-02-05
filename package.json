@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "aprendiendo node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidReque/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "David Requeno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidReque/node/issues"
+  },
+  "homepage": "https://github.com/DavidReque/node#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  }
+}
